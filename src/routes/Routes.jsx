@@ -4,7 +4,7 @@ import Dashboard from '../pages/Dashboard'
 import PrivateRoutes from './PrivateRoutes'
 import Login from '../pages/Login'
 
-export default function r() {
+export default function routes() {
   return (
     <BrowserRouter>
       <Routes>
